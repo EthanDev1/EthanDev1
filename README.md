@@ -1,0 +1,4 @@
+- 👋 Salut, je suis développeur français de tools et open source gratuit.
+- 👀 Je suis intéréssé par le code, Python ou Javascript et en passant par HTML, CSS, en utilisant Visual Studio.
+- 🌱 J'ai 15 ans, je suis en 3e au collège.
+- 📫 Viens sur mon discord : ethan.official en cas de problème !
